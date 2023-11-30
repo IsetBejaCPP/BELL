@@ -1,0 +1,7 @@
+Cahier des charges:
+la sociète STIB Desire automatiser la sonnerie dans ses ocaux système a concevoir doit permettre:
+-Modifier les plages horaire d'une sonnerie:la sonnorie doit ètre dèclanche dans 10:58,11:01,13:8,18:00,20:00.
+-doit accecible via smartphone.
+-ces heures doit ètre modifier en valeur et en nombre.
+
+
